@@ -1,0 +1,4 @@
+trong quá trình phát triển website có tổng cộng 3 môi trường:
+    - dev (localhost) : lập trình viên đi code
+    - test (server) : code của dev sẽ dc đưa lên server của công ty -> tester kiếm bug
+    - production (server) : đưa lên server để người dùng truy cập 
